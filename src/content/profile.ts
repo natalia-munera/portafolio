@@ -2,8 +2,8 @@ import type { ProfileInfo } from '../types/content.types';
 
 // Edita únicamente estos valores para actualizar la información principal.
 export const profile: ProfileInfo = {
-  name: 'Nombre de la Artista',
-  title: 'Formadora musical & intérprete',
+  name: 'Natalia Múnera Vásquez',
+  title: 'Formadora musical & clarinetista',
   bio: `Escribe aquí una biografía profesional de 2-4 párrafos. Puedes usar
 saltos de línea normales; el componente Hero/About se encarga de darle formato.
 Incluye trayectoria, enfoque pedagógico y logros relevantes para convocatorias.`,
